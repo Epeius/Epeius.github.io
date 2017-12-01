@@ -1,0 +1,44 @@
+title: BinZhang's Blogs
+email: binzhang08d@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+permalink: ':title/'
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
+# Author settings
+author: Bin zhang (Epeius) # add your name
+author-pic: binzhang.jpg
+about-author: My name is Bin Zhang. I’m a PhD candidate in NUDT. My interests consist of software engineering, software testing, and information security.
+
+# Contact links
+email: binzhang08d@gmail.com# Add your Email address
+github: epeius # Add your Github handle
+
+
+# Newsletter
+mailchimp: # Add your MailChimp form identifier.
+
+# Disqus
+discus_identifier: mr-brown # Add your discus identifier
+
+# Tracker
+analytics: # Google Analytics
+
+# Paginate
+paginate: 6
+paginate_path: /page:num/
+
+# Build settings
+markdown: kramdown
+gems:
+  - jekyll-paginate
+  - jekyll-feed
+#  - jekyll-sitemap
+
+extensions: [fenced_code_blocks, "tables"]
+
+include: [_pages]
+exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
