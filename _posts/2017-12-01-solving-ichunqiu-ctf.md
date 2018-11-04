@@ -4,7 +4,7 @@ layout: post
 img: post-2.jpg
 ---
 ## 背景
-2017年9月21号上午，国内首届[机器人网络安全大赛](http://rhg.ichunqiu.com/)进行，我们HALFBIT战队也参与了当时的比赛，最终以攻+防第一的成绩夺得第一名 （PS: 虽然是队长，然而由于当时在瑞士EPFL/[DSLab](http://dslab.epfl.ch/)/[S2E](http://s2e.systems/) 小组联合培养，未能亲赴比赛现场）。   
+2017年9月21号上午，国内首届[机器人网络安全大赛](http://rhg.ichunqiu.com/)进行，我们HALFBIT战队也参与了当时的比赛，最终以攻+防第一的成绩夺得第一名 （由于当时在瑞士EPFL/[DSLab](http://dslab.epfl.ch/)/[S2E](http://s2e.systems/) 小组联合培养，未能赶赴比赛现场）。   
 
 所有战队的机器人大同小异，[思路基本一致](https://www.leiphone.com/news/201709/zf1EKXWvjo6rgf3H.html)：   
 
